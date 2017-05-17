@@ -16,3 +16,7 @@ coverage.txt
 bin/gx
 bin/gx*
 bin/tmp
+
+vendor/
+.idea/
+.vscode/
